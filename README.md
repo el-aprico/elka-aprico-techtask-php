@@ -18,7 +18,7 @@ __2. Install Composer__
 
 __3. Clone this Repository__
 ```console
-git clone https://github.com/el-aprico/elka-aprico-techtask-php.git && cd elka-aprico-techtask-php
+  git clone https://github.com/el-aprico/elka-aprico-techtask-php.git && cd elka-aprico-techtask-php
 ```
 __4. Copy .env File__
 ```console
