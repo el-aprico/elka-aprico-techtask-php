@@ -6,7 +6,7 @@ __1. Install Git__
 
 Open your console and run this command
 ```console
-$ sudo apt-get install git
+  sudo apt-get install git
 ```
 
 __2. Install Composer__
