@@ -3,10 +3,11 @@ Suggested recipes for lunch API
 
 ## How to Deploy
 __1. Install Git__
+
 Open your console and run this command
 ```console
 $ sudo apt-get install git
-   ```
+```
 
 __2. Install Composer__
 ```console
@@ -35,6 +36,7 @@ __6. Run Symfony Server__
 ```
 
 __7. Test on your browser__
+
 Open your browser and type http://127.0.0.1:8000/
 
 __8. Launch Lunch API__
