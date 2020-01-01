@@ -78,7 +78,6 @@ class IngredientProvider extends AppServiceProvider
         return $json;
     }
 
-
     public function applyFiltered($name, $vals, $json = [])
     {
         if (!$json) {

@@ -13,8 +13,8 @@ class RecipeProvider extends AppServiceProvider
     public function byIngredients(array $args)
     {
         $newJson = [];
-        $xxxx = $this->getJsonResult();
-        foreach ($xxxx as $key => $val) {
+        $jsonResult = $this->getJsonResult();
+        foreach ($jsonResult as $key => $val) {
             $diff = array_diff($val['ingredients'], $args);
             if (!$diff) {
                 $newJson[] = $val;
